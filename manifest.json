@@ -1,0 +1,9 @@
+{
+  "name": "YU Eats",
+  "short_name": "YU Eats",
+  "start_url": "/yueats/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": []
+}
